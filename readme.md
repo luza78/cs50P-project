@@ -23,7 +23,7 @@
 
 __________________________________________________________________________________________________________________
     
-    ### Usage & Setup``:
+    ### Usage & Setup:
         $ Create a venv, using the requirements.txt which contains the package dependencies.
         $ navigate to the application root directory and type 'python project.py [-d] [-h --help]
         $ -d flag adds the desciption of the recipe.
